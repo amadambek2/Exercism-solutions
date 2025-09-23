@@ -1,1 +1,1 @@
-My solutions for the tasks from Exercism.org
+My solutions for the exercises from Exercism.org
